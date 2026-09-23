@@ -11,7 +11,7 @@
   color: var(--secondary);
   font-size: 100%;
   text-shadow: 1px 1px 1px var(--bg);
-  hyphens: auto;
+  hyphens: auto; // чтобы перенос строк работал - нужно в тэге html обязательно указывать правильный lang
 
   /*
   * иначе событие swipe у Hammer.Js не срабатывает,
