@@ -1,3 +1,10 @@
+> [!WARNING]
+> **Legacy ActiveBook project — no longer maintained.**
+>
+> This project belongs to the previous generation of the ActiveBook engine. It is no longer developed or supported and is preserved for historical purposes only.
+>
+> Its functionality will be reimplemented on the new ActiveBook engine in separate repositories.
+
 https://active-books.ru
 
 ActiveBooks — Живые книги
